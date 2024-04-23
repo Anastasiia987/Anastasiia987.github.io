@@ -103,7 +103,7 @@ button:hover {
 .expectations {
   /* border: 1px red solid; */
   display: flex;
-  background-color: rgb(94, 92, 92);
+  background-color: red;
 }
 
 .expectations-title {
